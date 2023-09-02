@@ -2,45 +2,83 @@
 Ссылки на полезные ресурсы для PHP разработчиков
 
 ## YOUTUBE
+* https://www.youtube.com/@PHPChannel
+* https://www.youtube.com/@PHPPoint
 * https://www.youtube.com/@5minphp
-* https://www.youtube.com/@about-code
-* https://www.youtube.com/@ADV-IT
-* https://www.youtube.com/@amorev
-* https://www.youtube.com/@archdays
-* https://www.youtube.com/@artsorax
+* https://www.youtube.com/@PHPofBy
+* https://www.youtube.com/@SkyengITeam
+* https://www.youtube.com/@fwdays
 * https://www.youtube.com/@beerphpspb4254
-* https://www.youtube.com/@ByteByteGo
-* https://www.youtube.com/@codeby8513
-* https://www.youtube.com/@codedojo
+* https://www.youtube.com/@phpSamara
+* https://www.youtube.com/@phpvrn
+* https://www.youtube.com/@ulskPHP
+* https://www.youtube.com/@rndphp
+* https://www.youtube.com/@phpdagestan
+* https://www.youtube.com/@ElisDN
+* https://www.youtube.com/@DeworkerPro
+* https://www.youtube.com/@SerafimArts
+* https://www.youtube.com/results?search_query=александр+макаров+php
+* https://www.youtube.com/results?search_query=дмитрий+науменко+php
+* https://www.youtube.com/results?search_query=адель+файзрахманов+laravel
+* https://www.youtube.com/results?search_query=александр+лисаченко+php
+* https://www.youtube.com/results?search_query=iSpring+php
+* https://www.youtube.com/@denis0ru 
+* https://www.youtube.com/@kuvshinovee
+* https://www.youtube.com/@SashokGorshok
 * https://www.youtube.com/@codefestru
+* https://www.youtube.com/@user-tm5sz7ol7g
 * https://www.youtube.com/@codeidphpcommunity9244
+* https://www.youtube.com/@thinkphpcomua
+* https://www.youtube.com/@HexletOrg
+
+* https://www.youtube.com/@involtafoundation
+* https://www.youtube.com/@livecodingschool8906
+* https://www.youtube.com/@onlinerdev3517
+* https://www.youtube.com/@otsobes
+* https://www.youtube.com/@symcode760
+* https://www.youtube.com/@symfoniacs738
+* https://www.youtube.com/@symfonycamp70
+* https://www.youtube.com/@SergeyZhuk
+* https://www.youtube.com/@TheLukesky1
+* https://www.youtube.com/@pavelbelik
+* https://www.youtube.com/@HtmllabRu
+* https://www.youtube.com/@php-farttime
+
+
+* https://www.youtube.com/@phpannotated
+* https://www.youtube.com/@phpukconference
+* https://www.youtube.com/@GaryClarkeTech
+* https://www.youtube.com/@PHPRoundtable
+* https://www.youtube.com/@about-code
+
+
+
+
 * https://www.youtube.com/@DDDevotion
-* https://www.youtube.com/@denis0ru
+
 * https://www.youtube.com/@DevOpsChannel
 * https://www.youtube.com/@devschacht
-* https://www.youtube.com/@DeworkerPro
+
 * https://www.youtube.com/@DmitryKetov
-* https://www.youtube.com/@ElisDN
+
 * https://www.youtube.com/@EngineerSpock
 * https://www.youtube.com/@ExtremeCode
-* https://www.youtube.com/@flamixsolutions
 * https://www.youtube.com/@Flant
 * https://www.youtube.com/@freetonik
 * https://www.youtube.com/@FrontendChannel
 * https://www.youtube.com/@frontendweekend
-* https://www.youtube.com/@fwdays
-* https://www.youtube.com/@GaryClarkeTech
+* 
+
 * https://www.youtube.com/@GDGKaliningrad
 * https://www.youtube.com/@GeekCode
 * https://www.youtube.com/@GNULinuxPro
 * https://www.youtube.com/@Habr_com
 * https://www.youtube.com/@Heisenbugconf
-* https://www.youtube.com/@HexletOrg
+
 * https://www.youtube.com/@HighLoadChannel
-* https://www.youtube.com/@HtmllabRu
-* https://www.youtube.com/@involtafoundation
-* https://www.youtube.com/@iSpringTech
-* https://www.youtube.com/@IT_i_td
+
+
+* https://www.youtube.com/@IT_i_td tinkoff
 * https://www.youtube.com/@it.it-5493
 * https://www.youtube.com/@it73ru
 * https://www.youtube.com/@ITKAMASUTRA
@@ -50,74 +88,61 @@
 * https://www.youtube.com/@JUGru
 * https://www.youtube.com/@KasperskyRussia
 * https://www.youtube.com/@KirillSemaev
-* https://www.youtube.com/@kuvshinovee
-* https://www.youtube.com/@livecodingschool8906
+
+
 * https://www.youtube.com/@loftblog
 * https://www.youtube.com/@MailRuCloudSolutions
 * https://www.youtube.com/@NickLavlinsky
-* https://www.youtube.com/@onlinerdev3517
-* https://www.youtube.com/@otsobes
+
+
 * https://www.youtube.com/@otus_education
 * https://www.youtube.com/@OverEngineer
 * https://www.youtube.com/@OzonTech1998
-* https://www.youtube.com/@pavelbelik
+
 * https://www.youtube.com/@pavlenkoat
-* https://www.youtube.com/@php-farttime
-* https://www.youtube.com/@phpannotated
-* https://www.youtube.com/@PHPChannel
-* https://www.youtube.com/@phpdagestan
-* https://www.youtube.com/@PHPofBy
-* https://www.youtube.com/@PHPPoint
-* https://www.youtube.com/@PHPPoint
-* https://www.youtube.com/@PHPRoundtable
-* https://www.youtube.com/@phpSamara
-* https://www.youtube.com/@phpukconference
-* https://www.youtube.com/@phpvrn
+
 * https://www.youtube.com/@PodlodkaShow
 * https://www.youtube.com/@programisli
 * https://www.youtube.com/@PurpleSchool
 * https://www.youtube.com/@RadioTpodCast
 * https://www.youtube.com/@Rclass
 * https://www.youtube.com/@rebrainme
-* https://www.youtube.com/@rndphp
-* https://www.youtube.com/@rndphp
+
 * https://www.youtube.com/@RomNero
 * https://www.youtube.com/@S0ERDEVS
 * https://www.youtube.com/@s0ertalks107
-* https://www.youtube.com/@SashokGorshok
+
 * https://www.youtube.com/@sbermarket_tech
 * https://www.youtube.com/@ScrumTrekOfficial
 * https://www.youtube.com/@sdcast146
 * https://www.youtube.com/@SeniorSoftwareVlogger
-* https://www.youtube.com/@SerafimArts
+
 * https://www.youtube.com/@SergeyNemchinskiy
-* https://www.youtube.com/@SergeyZhuk
+
 * https://www.youtube.com/@site_support
-* https://www.youtube.com/@SkyengITeam
+
 * https://www.youtube.com/@slurm_io
 * https://www.youtube.com/@stringconcat
-* https://www.youtube.com/@symcode760
-* https://www.youtube.com/@symfoniacs738
-* https://www.youtube.com/@symfonycamp70
+
 * https://www.youtube.com/@systeamadmin
 * https://www.youtube.com/@t0digital
 * https://www.youtube.com/@TechLamoda
 * https://www.youtube.com/@TechLeadChannel
 * https://www.youtube.com/@TechTrainFest
 * https://www.youtube.com/@TheCodeholic
-* https://www.youtube.com/@TheLukesky1
-* https://www.youtube.com/@thinkphpcomua
+
+
 * https://www.youtube.com/@TimurShemsedinov
 * https://www.youtube.com/@tough-dev-school
 * https://www.youtube.com/@tryexponent
 * https://www.youtube.com/@tututech1484
 * https://www.youtube.com/@TVSuperjob
-* https://www.youtube.com/@ulskPHP
+
 * https://www.youtube.com/@unixway4196
-* https://www.youtube.com/@user-cd8on9jx2j
-* https://www.youtube.com/@user-nk2vt9qu8c
-* https://www.youtube.com/@user-tm5sz7ol7g
-* https://www.youtube.com/@user-vt3gw1xu5z
+* https://www.youtube.com/@user-cd8on9jx2j ХудоБедно
+* https://www.youtube.com/@user-nk2vt9qu8c Цинковый Прод
+* https://www.youtube.com/@user-vt3gw1xu5z РИФ. Технологии
+
 * https://www.youtube.com/@vas3k_club
 * https://www.youtube.com/@vkteamchannel
 * https://www.youtube.com/@VladilenMinin
@@ -127,13 +152,19 @@
 * https://www.youtube.com/@webpractice2202
 * https://www.youtube.com/@yandex.academy
 * https://www.youtube.com/@yegor256
-* https://www.youtube.com/itbeard
-* https://www.youtube.com/results?search_query=адель+файзрахманов+laravel
-* https://www.youtube.com/results?search_query=александр+лисаченко+php
-* https://www.youtube.com/results?search_query=александр+макаров+php
-* https://www.youtube.com/results?search_query=дмитрий+науменко+php
+* https://www.youtube.com/@itbeard
+* https://www.youtube.com/@ByteByteGo
+* https://www.youtube.com/@codeby8513
+* https://www.youtube.com/@codedojo
+
 * https://www.youtube.com/results?search_query=егор+бугаенко
-* https://www.youtube.com/results?search_query=iSpring+php
+
+
+* https://www.youtube.com/@ADV-IT
+* https://www.youtube.com/@amorev
+* https://www.youtube.com/@archdays
+* https://www.youtube.com/@artsorax
+
 
 ## Telegram channels
 * https://t.me/phpdigest
