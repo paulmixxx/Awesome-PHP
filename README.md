@@ -1,6 +1,11 @@
 # ✨ AWESOME PHP ✨
 Ссылки на полезные ресурсы для PHP разработчиков
 
+<image
+  src="qrcode_github.com.png"
+  height="200"
+  alt="QR-code">
+
 ## General
 * https://www.php.net
 * https://www.phpinternalsbook.com
